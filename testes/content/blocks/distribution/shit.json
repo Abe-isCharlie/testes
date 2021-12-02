@@ -1,0 +1,21 @@
+{
+"type": "MassDriver",
+"name": "Teleporter",
+"description": "yes",
+"research": "mass-driver",
+"range": 9999999999999,
+"minDistribute": 1,
+"knockback": 0,
+"instantTransfer": true,
+"health": 200,
+"requirements": [
+    {
+        "item": "copper",
+        "amount": 30
+    },
+    {
+        "item": "lead",
+        "amount": 60
+      }
+  ]
+}
