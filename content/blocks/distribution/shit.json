@@ -7,9 +7,9 @@
 "range": 999,
 "minDistribute": 1,
 "bulletSpeed": 20,
-"bullet": "none",
 "knockback": 0,
 "instantTransfer": true,
+"shotEffect": "itemTransfer",
 "health": 200,
 "requirements": [
     {
