@@ -8,8 +8,13 @@
 "minDistribute": 1,
 "bulletSpeed": 20,
 "knockback": 0,
-"instantTransfer": true,
-"shotEffect": "itemTransfer",
+"reloadTIme": 0,
+"bulletLifeTime": 1000,
+"shotEffect": "none",
+"smokeEffect": "none",
+"receiveEffect": "none",
+"shotSound": "none",
+"shake": 0,
 "health": 200,
 "requirements": [
     {
